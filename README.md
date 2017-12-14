@@ -1,4 +1,4 @@
-# NBC OTS Digital Bracket Tool
+# NBC OTS Leaflet Map Tool
 This is a node.js project for a graphic with a Leaflet map used on our sites. It features live editing capability via Google Sheets (with Sheetsy), and webpack's hot reload functionality for development.
 ## Requirements
 Before you get started, you should have the latest version of Node installed on your machine. That should be it, but if you run into any weird errors just let me know. 
