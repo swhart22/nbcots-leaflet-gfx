@@ -11,6 +11,7 @@ function draw(data){
 	console.log(data);
 
 	var container = d3.select('#container');
+
 	var map = L.map('container').setView([37.8, -96], 4);
 
 	L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
